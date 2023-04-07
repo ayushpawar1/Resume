@@ -8,7 +8,7 @@
 </head>
   <body><header>
     <table><tr>
-    <td><img wight="300"src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTIKsDNEbGQLavCddE7AOuLiqhcQ-1HPAWUKQ&usqp=CAU"alt="This Is A Image Of Ayush"</td>
+    <td><img wight="300"src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTIKsDNEbGQLavCddE7AOuLiqhcQ-1HPAWUKQ&usqp=CAU"alt="This Is A Image Of Ayush"></td>
     <td><h1>Ayush Pawar</h1>
   <p>Founder OF <b>ryui.com</b>.</p>
   <p><i>I Love WebDevelopment . </i></p</td>
@@ -63,9 +63,9 @@
  <footer> <h2 id="contact">Connect With ME </h2>
   <p>Email:<a href="mailto:ayushpawar886@gmail.com">
     ayushpawar886@gmail.com</a></p>
-    <p>Instagram: <a target="_blank"href="<a href="https://https://www.google.com>ayushpawar.1</a></p>
+    <p>Instagram: <a href="https://www.instagram.com/ayushpawar.1"</a></p>
 <p>Telephone-<a href="tel:+919516161044"> +917777770001</a></p>
    <a href="#">Back to Top</a>
     </footer>
    </body>
-</html>
+   </html>
