@@ -10,7 +10,7 @@
     <table><tr>
     <td><img wight="300"src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTIKsDNEbGQLavCddE7AOuLiqhcQ-1HPAWUKQ&usqp=CAU"alt="This Is A Image Of Ayush"</td>
     <td><h1>Ayush Pawar</h1>
-  <p>Founder OF <b>rentalai.com</b>.</p>
+  <p>Founder OF <b>ryui.com</b>.</p>
   <p><i>I Love WebDevelopment . </i></p</td>
     <td>
       <nav>
